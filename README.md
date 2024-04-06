@@ -1,1 +1,1 @@
-# VPN-sales-template
+# A simple and demonstrative VPN sales template
